@@ -1,0 +1,4 @@
+{
+    "token": "YOUR_SLACK_TOKEN",
+    "conversationId" : "YOUR_CONVERSATION_ID"
+}
